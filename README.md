@@ -90,7 +90,7 @@ graph TD
 | **Host Operating System** | Microsoft Windows 11 (64-bit) |
 | **Hypervisor** | Oracle VirtualBox v7.2 |
 | **Guest Virtual Machine** | Kali Linux (Host: `ZeroTrace`) |
-| **Guest vCPU / vRAM** | 4 vCPU Cores / 4096 MB RAM |
+| **Guest vCPU / vRAM** | 2 vCPU Cores / 4096 MB RAM |
 | **Storage Allocation** | 32 GB Dynamic VDI (SSD backed) |
 | **Virtual NIC Type** | Intel PRO/1000 MT Desktop (`82540EM`) |
 | **Lab Network Subnet** | `10.0.0.0/24` (Subnet Mask: `255.255.255.0`) |
